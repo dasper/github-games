@@ -2,4 +2,4 @@
 
 Our mission is to create a collection of classic open source games.
 
-Play the game at `dasper.github.io/github-games`
+Play the game at `ChipBrowne.github.io/github-games`
